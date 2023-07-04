@@ -1,6 +1,5 @@
 # Waters-Horiseon-Challenger-Uno-07062023
 Refactoring an existing site to make it more accessible.
-
 ## User Story
 
 ```
@@ -23,16 +22,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-```
 
 ```
-
 ![Screenshot](https://raw.githubusercontent.com/kwaters3/Waters-Horiseon-Challenger-Uno-07062023/main/assets/images/Screenshot.png)
 
 ```
-
-```
-
 [Link Text](https://kwaters3.github.io/Waters-Horiseon-Challenger-Uno-07062023/)
-
-```
