@@ -24,5 +24,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ```md
-    ![screenshot](assets/images/Screenshot.png)
-    ```
+    ![alt text](assets/images/Screenshot.png)
+```
