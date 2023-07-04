@@ -23,6 +23,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-```md
-    ![alt text](assets/images/Screenshot.png)
-```
+![Screenshot](https://raw.githubusercontent.com/kwaters3/Waters-Horiseon-Challenger-Uno-07062023/main/assets/images/Screenshot.png)
