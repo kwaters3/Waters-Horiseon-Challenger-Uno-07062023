@@ -25,7 +25,7 @@ THEN I find a concise, descriptive title
 
 ```
 
-[Click here to see the result](https://kwaters3.github.io/Waters-Horiseon-Challenger-Uno-07062023)
+[Click here to see the result]()
 
 
 
