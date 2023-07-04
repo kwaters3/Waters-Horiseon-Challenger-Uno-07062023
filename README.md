@@ -26,5 +26,6 @@ THEN I find a concise, descriptive title
 ```
 ![Screenshot](https://raw.githubusercontent.com/kwaters3/Waters-Horiseon-Challenger-Uno-07062023/main/assets/images/Screenshot.png)
 
-```
+``
 [Click here to see the result](https://kwaters3.github.io/Waters-Horiseon-Challenger-Uno-07062023)
+
