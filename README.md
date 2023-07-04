@@ -1,5 +1,5 @@
 # Waters-Horiseon-Challenger-Uno-07062023
-Refactoring an existing site to make it more accessible.
+Refactoring an existing site to make it more accessible for the user.
 ## User Story
 
 ```
@@ -24,8 +24,13 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ```
+
+[Click here to see the result](https://kwaters3.github.io/Waters-Horiseon-Challenger-Uno-07062023)
+
+
+
 ![Screenshot](https://raw.githubusercontent.com/kwaters3/Waters-Horiseon-Challenger-Uno-07062023/main/assets/images/Screenshot.png)
 
-``
-[Click here to see the result](https://kwaters3.github.io/Waters-Horiseon-Challenger-Uno-07062023)
+
+
 
